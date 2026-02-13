@@ -4,3 +4,7 @@ matplotlib
 opencv-python
 pillow
 scikit-learn
+flask
+tensorflow
+numpy
+pillow
